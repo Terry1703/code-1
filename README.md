@@ -6,6 +6,7 @@ REQUIREMENTS
     Am required to have 3 files for the calculations and receiving of the Data
 INSTALLATION METHOD
      To get the project from GitHub to your machine git clone 
+    
      Navigate to the respiratory
      cd repository
  Running the Application

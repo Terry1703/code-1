@@ -1,28 +1,40 @@
-CODE 1
-the project entails grades of students graded with the range of marks scored
-also, calculation of speed using 'if' and 'else if'
-It also contains the calculation of net salary by calculating taxable income, NSSF, and NHIF Deductions.
-REQUIREMENTS 
-    Am required to have 3 files for the calculations and receiving of the Data
-INSTALLATION METHOD
-     To get the project from GitHub to your machine git clone 
-    git@github.com:Terry1703/code-1.git
-     Navigate to the respiratory 
-     cd repository
- Running the Application
-Once the project is installed, follow these steps to run the application:
+# Wk1 Code Challenge 
 
-[Instructions to configure any settings or environment variables if necessary]
+## prerequisities
 
-Execute the application:
 
-bash
-Copy code
+1. Create a repository on your GitHub account. 
 
-AUTHOR
-The project contributed to and maintained by:
- Terry Otieno
-contact;0729625722
+**-NB: One folder, with 3-4 files for each solution. So as you know, a single file should only hold one solution.-**
 
-     
+2. Use JavaScript to wire down the solution.
+
+3. Push the solution to the above repository once done.
+
+4. Submit the repository link for grading.
+
+5. Ensure your repository has a well-written README.
+
+## System Requirements
+-A Browser that can run JavaScript (Chrome, Firefox, etc)
+-Node 20+
+-operating system (Windows 10+, Linux, etc)
+-RAM > 4GB
+-Disk space > 1GB
+
+## Installation
+To use this repo, follow the following steps:
+## Alternative one 
+1. open your terminal on your computer
+2. clone the repo by running the following command:
+**``git clone https://github.com/Terry1703/code-1.git``**
+
+### [Instructions to configure any settings or environment variables if necessary]
+
+- Execute the application:
+
+- bash Copy code
+
+
+#### AUTHOR The project contributed to and maintained by: Terry Otieno contact;0729625722
      

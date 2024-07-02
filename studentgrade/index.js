@@ -1,21 +1,21 @@
-if (0 <= marks <= 100){
-}
-else{
-    return 'enter number between 0 and 100';
-}
+function getstudentgrade(){
+    if(marks < 0 || marks > 100 || isNaN(marks)) {
+        return'Invalid Score';
+    }
 if (marks > 79){
     grade = 'A';
 }
-else if (60 <= marks <= 79){
+else if ( marks > 60){
     grade = 'B';
 }
-else if (50 <= marks <= 59){
+else if (marks > 50){
     grade = 'c';
 }
-else if (40 <= marks <= 49){
+else if (marks > 39){
     grade = 'D';
 }
 else{
     grade = 'E';
 }
-console.log(get_studentgrade)
+}
+console.log(getstudentgrade (60))

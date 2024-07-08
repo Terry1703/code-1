@@ -1,9 +1,9 @@
-let speed_limit =70
+let speed =70
 let demerit_points =5
 
-if (speed <= speed_limit){
+if (speed <= speed){
     return 'ok';
 }
-else if (demerit_points = (speed-speed_limit)){
+else if (demerit_points = (speed-speed)){
     return 'total demerit_points : {demerit_points}';
 }
